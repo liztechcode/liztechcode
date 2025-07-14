@@ -1,11 +1,4 @@
 <h1 align="center">Hola! 👋, soy Lizeth Castillo — @liztechcode👩‍💻</h1> 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lizethcas&color=blueviolet" alt="Profile views" />
-</p>
-
-
-  
-
 
 <p align="center">
   <strong>Desarrolladora web | Mentora de programación y desarrollo web</strong><br>
@@ -29,7 +22,18 @@
   <a href="https://www.youtube.com/@liztechcode">
     <img src="https://img.shields.io/badge/YouTube-gray?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+
+</p>
+
+<p align="center">
+  <a href="https://preply.com/es/profesor/6094454" target="_blank">
+    <img src="https://img.shields.io/badge/Preply-Agenda%20tu%20clase%20aquí-blueviolet?style=flat&logo=preply&logoColor=white" alt="Preply" />
+  </a>
  
+  <img src="https://komarev.com/ghpvc/?username=lizethcas&color=blueviolet" alt="Profile views" />
+
+
+
 </p>
 
 ---
