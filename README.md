@@ -8,9 +8,11 @@
 
 
 <p align="center">
-  <strong>Desarrolladora web | Educadora Tech | Creadora de herramientas para aprender a programar</strong><br>
-
+  <strong>Desarrolladora web | Mentora de programación y desarrollo web</strong><br>
+  Este espacio reúne los proyectos, recursos y herramientas que te ayudan a 
+  <strong>aprender a programar, desarrollar proyectos reales y crecer en el mundo tech</strong>.
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lizethcastillo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,20 +29,8 @@
   <a href="https://www.youtube.com/@liztechcode">
     <img src="https://img.shields.io/badge/YouTube-gray?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://t.me/problemaresueltoo">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+ 
 </p>
-
-
-
----
-
-- 🚀 +5 años de experiencia en el sector tecnologico : desarrollo web | Entrenamiento de bots.
-- 🧠 Docente de programación: haciendo facil lo complejo.
-- 📣 Comparto contenido sobre aprendizaje consciente, lógica de programación y uso estratégico de la IA.
-
-
 
 ---
 ## 💼 Experiencia Profesional
@@ -91,7 +81,7 @@
 
 | 📈 Estadísticas                                                                                                     | 🏆 Top Tecnologías                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| ![Liz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizethcas&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizethcas&layout=compact&theme=radical) |
+| ![Liz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liztechcode&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liztechcode&layout=compact&theme=radical) |
 
 
 ---
@@ -100,36 +90,29 @@
 
 - 🎓 Cursos sobre fundamentos de programación y resolución de problemas.
 
----
 
-## 💜 ¿Te gusta lo que comparto?
+## 📣 Únete a mi canal de Telegram
 
-Estoy comprometida con crear contenido educativo que ayude a más personas a aprender programación de forma clara y práctica.  
-Si alguna vez aprendiste algo conmigo o simplemente quieres apoyar mi trabajo, considera convertirte en mi sponsor aquí en GitHub.
-
-Tu patrocinio me permite:
-
-- Crear más guías, retos y recursos gratuitos 🧠  
-- Compartir contenido útil con propósito y continuidad ✨  
-- Dedicar tiempo a construir proyectos educativos reales 💻
-
----
+¿Quieres practicar logica de programación, con retos, tips y recursos gratuitos?  
+Te invito a mi canal de Telegram, donde entrenamos la logica y mejoramos las habilidades en programacion.
+ <a href="https://t.me/problemaresueltoo">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Problema resuelto" />
+  </a>
 
 
-Conviertete en [![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%92%9C-purple?style=for-the-badge)](https://github.com/sponsors/lizethcas) y forma parte de esta comunidad que cree en el poder de compartir conocimiento.
+> Comunidad para devs que quieren crecer.  
+> ¡Nos vemos allá! 💜
 
 
-¡Gracias por estar aquí! 💜
+## 🎥 Últimos videos de YouTube
 
----
-
-## 📣 Conecta conmigo
+<a href="https://www.youtube.com/watch?v=WvUdg41FnNY" target="_blank">
+  <img src="https://img.youtube.com/vi/WvUdg41FnNY/hqdefault.jpg" width="300" />
+</a>
 
 
 
-
-
----
+  
 
 _“💡 No quiero que memorices. Quiero que **entiendas**. Porque cuando entiendes, puedes crear sin miedo.”_
 
