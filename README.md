@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Preply-Agenda%20tu%20clase%20aquí-blueviolet?style=flat&logo=preply&logoColor=white" alt="Preply" />
   </a>
  
-  <img src="https://komarev.com/ghpvc/?username=lizethcas&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=liztechcode&color=blueviolet" alt="Profile views" />
 
 
 
