@@ -113,7 +113,9 @@ Te invito a mi canal de Telegram, donde entrenamos la logica y mejoramos las hab
 <a href="https://www.youtube.com/watch?v=WvUdg41FnNY" target="_blank">
   <img src="https://img.youtube.com/vi/WvUdg41FnNY/hqdefault.jpg" width="300" />
 </a>
-
+<a href="https://www.youtube.com/watch?v=COHbI09cFHg" target="_blank">
+  <img src="https://img.youtube.com/vi/COHbI09cFHg/hqdefault.jpg" width="300" />
+</a>
 
 
   
