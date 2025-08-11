@@ -8,7 +8,12 @@
   Este espacio reúne los proyectos, recursos y herramientas que te ayudan a 
   <strong>aprender a programar, fortalecer habiliddades que te impulsan en el mundo tech</strong>.
 </p>
+  <p align="center">
 
+  <p align="center">
+  <a href="https://github.com/liztechcode"><img src="https://img.shields.io/github/followers/liztechcode?style=social" alt="Sígueme en GitHub"></a>
+  <a href="https://github.com/liztechcode/problema-resuelto"><img src="https://img.shields.io/github/stars/liztechcode/problema-resuelto?style=social" alt="Dale una estrella"></a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/lizethcastillo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -39,7 +44,6 @@
 
 </p>
 
----
 
 
 <div align="center">
@@ -52,7 +56,6 @@
   <img src="https://img.shields.io/badge/Enyoi-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCIgd2lkdGg9IjQ4cHgiIGhlaWdodD0iNDhweCI+PHJlY3Qgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4IiBmaWxsPSIjNkM2M0ZGIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNnB4IiBmaWxsPSJ3aGl0ZSI+RTwvdGV4dD48L3N2Zz4=" alt="Enyoi" />
 </div>
 
----
 <div align="center">
 
 <h2>🧰 Tech Stack</h2>
@@ -110,7 +113,11 @@ Te invito a mi canal de Telegram, donde entrenamos la logica y mejoramos las hab
 _“💡 No quiero que memorices. Quiero que **entiendas**. Porque cuando entiendes, puedes crear sin miedo.”_
 
 🌟 ¡Gracias por pasarte por aquí!  
-💌 Si te interesa colaborar o aprender mándame un mensajito lizethcastillodeveloper@gmail.com.
+
+## Contacto o apoyo
+- 💌 Si te interesa colaborar o aprender mándame un mensajito lizethcastillodeveloper@gmail.com.
+- [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/lcastil149f)
+
 
 ---
 
