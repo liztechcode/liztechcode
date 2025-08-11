@@ -1,9 +1,12 @@
-<h1 align="center">Hola! 👋, soy Lizeth Castillo — @liztechcode👩‍💻</h1> 
+<img width="1203" height="308" alt="image" src="https://github.com/user-attachments/assets/a8e97da6-2cc6-4b87-a882-a11b76c66096" />
+
+<h1 align="center" width= "100%">Hola! 👋, soy Lizeth Castillo — @liztechcode👩‍💻</h1> 
+
 
 <p align="center">
-  <strong>Desarrolladora web | Mentora de programación y desarrollo web</strong><br>
+  <strong> Ing. Mecatrónica | Desarrolladora web | Ciberseguridad | Formadora en programación y desarrollo web</strong><br>
   Este espacio reúne los proyectos, recursos y herramientas que te ayudan a 
-  <strong>aprender a programar, desarrollar proyectos reales y crecer en el mundo tech</strong>.
+  <strong>aprender a programar, fortalecer habiliddades que te impulsan en el mundo tech</strong>.
 </p>
 
 <p align="center">
