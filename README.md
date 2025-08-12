@@ -6,7 +6,7 @@
 <p align="center">
   <strong> Ing. Mecatrónica | Desarrolladora web | Ciberseguridad | Formadora en programación y desarrollo web</strong><br>
   Este espacio reúne los proyectos, recursos y herramientas que te ayudan a 
-  <strong>aprender a programar, fortalecer habiliddades que te impulsan en el mundo tech</strong>.
+  <strong>aprender a programar, fortalecer habiliddades que te impulsan como programador</strong>.
 </p>
   <p align="center">
 
