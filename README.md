@@ -1,4 +1,4 @@
-<img width="1203" height="308" alt="image" src="https://github.com/user-attachments/assets/a8e97da6-2cc6-4b87-a882-a11b76c66096" />
+<img width="836" height="211" alt="image" src="https://github.com/user-attachments/assets/acb7530f-597f-440a-9bc5-be637f8eaac7" />
 
 <h1 align="center" width= "100%">Hola! 👋, soy Lizeth Castillo — @liztechcode👩‍💻</h1> 
 
