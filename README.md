@@ -85,17 +85,7 @@
 - 🎓 Cursos sobre fundamentos de programación y resolución de problemas.
 
 
-## 📣 Únete a mi canal de Telegram
 
-¿Quieres practicar logica de programación, con retos, tips y recursos gratuitos?  
-Te invito a mi canal de Telegram, donde entrenamos la logica y mejoramos las habilidades en programacion.
- <a href="https://t.me/problemaresueltoo">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Problema resuelto" />
-  </a>
-
-
-> Comunidad para devs que quieren crecer.  
-> ¡Nos vemos allá! 💜
 
 
 ## 🎥 Últimos videos de YouTube
@@ -110,7 +100,6 @@ Te invito a mi canal de Telegram, donde entrenamos la logica y mejoramos las hab
 
   
 
-_“💡 No quiero que memorices. Quiero que **entiendas**. Porque cuando entiendes, puedes crear sin miedo.”_
 
 🌟 ¡Gracias por pasarte por aquí!  
 
